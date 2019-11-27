@@ -188,7 +188,7 @@ for i in range(without_list_lenth):
                     continue
                 
                 line_num += 1
-                print("while line_num < num_of_lines: -> %s mal Durchlauden" % line_num)
+                print("while line_num < num_of_lines: -> %s mal Durchlaufen" % line_num)
                 continue
             text_file.close()
 
